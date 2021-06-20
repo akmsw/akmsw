@@ -1,2 +1,3 @@
 - 👋 Fran Bonino
 - 👀 Mainly Java, C & C++
+-    Also Assembly, MySQL & Python
