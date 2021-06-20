@@ -1,2 +1,2 @@
 - 👋 Fran Bonino
-- 👀 Java, C, C++, Assembly, Python...
+- 👀 Mainly Java, C, C++
