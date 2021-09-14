@@ -8,5 +8,3 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akmsw&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&cache_seconds=1800)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akmsw&langs_count=6&theme=tokyonight&layout=compact&cache_seconds=1800)
-
-  ✌️  Thanks for stopping by!
