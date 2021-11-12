@@ -7,4 +7,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akmsw&show_icons=true&count_private=true&include_all_commits=true&cache_seconds=1800&theme=github_dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akmsw&langs_count=6&layout=compact&cache_seconds=1800&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akmsw&langs_count=10&layout=compact&cache_seconds=1800&theme=github_dark)
