@@ -1,5 +1,5 @@
 - 👋  Fran Bonino
-- 🌳  23yo
+- 🌳  24yo
 - 🏠  Córdoba capital, Argentina
 - 🎓  Senior computer engineering student @ FCEFyN, UNC
 - :mailbox_with_mail:  Feel free to contact me via e-mail: franbonino82@gmail.com
