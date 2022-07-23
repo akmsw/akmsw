@@ -26,6 +26,7 @@
 ![gitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![openJDK](https://img.shields.io/badge/openjdk-11%2B-red?style=for-the-badge&logo=openjdk)
 ![apacheMaven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+![jUnit5](https://img.shields.io/badge/junit5-white?logo=junit5&style=for-the-badge)
 ![checkstyle](https://img.shields.io/badge/checkstyle-yellow?style=for-the-badge)
 ![sonarlint](https://img.shields.io/badge/sonarlint-orange?style=for-the-badge&logo=sonarlint)
 ![libreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
