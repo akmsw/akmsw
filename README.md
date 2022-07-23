@@ -8,7 +8,7 @@
 - 🔭 Looking forward to learn Android apps & videogames development.
 - 📑 [Here](https://gist.github.com/akmsw) I drop useful code.
 
-## 💻 What am I currently developing?
+## 🛠️ What am I currently developing?
 - ⚽ I'm working on the 3.0 version of my cross-platform soccer-matches-organization app. If you want to take a look at it, check my repository: [Armame el doparti](https://github.com/akmsw/armame-el-doparti)
 
 ## 👨‍💻 What I work with the most
