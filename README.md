@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Fran Bonino
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there! I'm Fran Bonino
 - 🌳 24yo
 - 🏠 Córdoba capital, Argentina
 - 🎓 Senior computer engineering student @ FCEFyN, UNC
@@ -29,6 +29,7 @@
 ![jUnit5](https://img.shields.io/badge/junit5-white?logo=junit5&style=for-the-badge)
 ![checkstyle](https://img.shields.io/badge/checkstyle-yellow?style=for-the-badge)
 ![sonarlint](https://img.shields.io/badge/sonarlint-orange?style=for-the-badge&logo=sonarlint)
+![uml](https://img.shields.io/badge/uml-blue?style=for-the-badge)
 ![libreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
 ### Code editors
 ![vsCode](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
