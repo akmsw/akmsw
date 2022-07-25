@@ -4,7 +4,7 @@
 - 🎓 Senior computer engineering student @ FCEFyN, UNC
 - 📬 Feel free to contact me via e-mail: franbonino82@gmail.com
 - 💼️ Reach me on [LinkedIn](https://www.linkedin.com/in/franciscobonino98/).
-- ⚡ My current interests are Java projects/applications development with CI and project management tools such as Jenkins and Maven, and low level software/firmware development in C.
+- ⚡ My current interests are Java projects/applications development with project management and CI tools such as Maven and Jenkins, and low level software/firmware development in C.
 - 🔭 Looking forward to learn Android apps & videogames development.
 - 📑 [Here](https://gist.github.com/akmsw) I drop useful code.
 
