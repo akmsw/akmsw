@@ -13,15 +13,15 @@
 
 ## 👨‍💻 What I work with the most
 
-### Operating systems
+- ### Operating systems
 ![linuxMint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-### Languages
+- ### Languages
 ![java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![c](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-### Tools
+- ### Tools
 ![git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![gitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![openJDK](https://img.shields.io/badge/openjdk-11%2B-red?style=for-the-badge&logo=openjdk)
@@ -32,7 +32,7 @@
 ![uml](https://img.shields.io/badge/uml-blue?style=for-the-badge)
 ![libreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
 
-### Code editors / IDEs
+- ### Code editors / IDEs
 ![vsCode](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 📊 Some stats
