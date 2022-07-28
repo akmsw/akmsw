@@ -31,7 +31,8 @@
 ![sonarlint](https://img.shields.io/badge/sonarlint-orange?style=for-the-badge&logo=sonarlint)
 ![uml](https://img.shields.io/badge/uml-blue?style=for-the-badge)
 ![libreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
-### Code editors
+
+### Code editors / IDEs
 ![vsCode](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 📊 Some stats
