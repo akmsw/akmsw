@@ -24,7 +24,7 @@
 - ### Tools
 ![git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![gitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github)
-![openJDK](https://img.shields.io/badge/openjdk-11%2B-red?style=for-the-badge&logo=openjdk)
+![openJDK](https://img.shields.io/badge/openjdk-8%2B-red?style=for-the-badge&logo=openjdk)
 ![apacheMaven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven)
 ![jUnit5](https://img.shields.io/badge/junit5-white?logo=junit5&style=for-the-badge)
 ![checkstyle](https://img.shields.io/badge/checkstyle-yellow?style=for-the-badge)
