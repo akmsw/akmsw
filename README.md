@@ -18,7 +18,7 @@
 ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows)
 
 - ### Languages
-![java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=black)
+![java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![c](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c)
 
 - ### Tools
