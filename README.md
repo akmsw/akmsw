@@ -9,9 +9,12 @@
 - 📑 [Here](https://gist.github.com/akmsw) I drop useful code.
 
 ## 🛠️ What am I currently developing?
-- ⚽ I'm working on the 3.0 version of my cross-platform soccer-matches-organization app. Check it out [here](https://github.com/akmsw/armame-el-doparti)!
+- ⚽ The 3.0 version of my cross-platform soccer-matches organization app: [armame el doparti](https://github.com/akmsw/armame-el-doparti)!
+- 🐶 A free & open source database management system for vet supplies stock control and clients registration (WIP - currently in a private repository).
+- 🎲 A Justin Hoffman's 1999 'Elimination' game remake (WIP - currently in a private repository).
+- 🎮 A different tic-tac-toe game (WIP - currently in a private repository).
 
-## 👨‍💻 What I work with the most
+## 👨‍💻 What I work with the most?
 
 - ### Operating systems
 ![linuxMint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
