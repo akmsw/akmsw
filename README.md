@@ -11,8 +11,8 @@
 ## 🛠️ What am I currently developing?
 - ⚽ A soccer-matches organization app: [Armame el doparti](https://github.com/akmsw/armame-el-doparti).
 - 🐶 A free & open source database management system for vet supplies stock control and clients registration: [Organivet](https://github.com/akmsw/organivet).
-- 🎲 A Justin Hoffman's 1999 'Elimination' game remake: [Elimination](https://github.com/akmsw/elimination).
-- 🎮 A different tic-tac-toe game: [Ultra-te-ti](https://github.com/akmsw/ultra-te-ti).
+- 🟣 A Justin Hoffman's 1999 'Elimination' game remake: [Elimination](https://github.com/akmsw/elimination).
+- ❎ A different tic-tac-toe game: [Ultra-te-ti](https://github.com/akmsw/ultra-te-ti).
 
 ## 👨‍💻 What I work with the most?
 
