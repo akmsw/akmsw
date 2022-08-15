@@ -9,10 +9,10 @@
 - 📑 [Here](https://gist.github.com/akmsw) I drop useful code.
 
 ## 🛠️ What am I currently developing?
-- ⚽ The 3.0 version of my cross-platform soccer-matches organization app: [armame el doparti](https://github.com/akmsw/armame-el-doparti)!
-- 🐶 A free & open source database management system for vet supplies stock control and clients registration (WIP - currently in a private repository).
-- 🎲 A Justin Hoffman's 1999 'Elimination' game remake (WIP - currently in a private repository).
-- 🎮 A different tic-tac-toe game (WIP - currently in a private repository).
+- ⚽ A soccer-matches organization app: [Armame el doparti](https://github.com/akmsw/armame-el-doparti).
+- 🐶 A free & open source database management system for vet supplies stock control and clients registration: [Organivet](https://github.com/akmsw/organivet).
+- 🎲 A Justin Hoffman's 1999 'Elimination' game remake: [Elimination](https://github.com/akmsw/elimination).
+- 🎮 A different tic-tac-toe game: [Ultra-te-ti](https://github.com/akmsw/ultra-te-ti).
 
 ## 👨‍💻 What I work with the most?
 
