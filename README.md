@@ -9,7 +9,7 @@
 - 📑 [Here](https://gist.github.com/akmsw) I drop useful code.
 
 ## 🛠️ What am I currently developing?
-- ⚽ The 3.0 version of my soccer-matches organization app: [Armame el doparti](https://github.com/akmsw/armame-el-doparti).
+- ⚽ The 3.0 version of my cross-platform soccer-matches organization app: [Armame el doparti](https://github.com/akmsw/armame-el-doparti).
 
 ## 👨‍💻 What I work with the most?
 
