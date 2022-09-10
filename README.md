@@ -39,5 +39,5 @@
 [![vsCode](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code)](https://code.visualstudio.com/)
 
 ## 📊 Some stats
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akmsw&langs_count=10&layout=compact&cache_seconds=1800&theme=github_dark&custom_title=Most%20used%20languages&&hide=jupyter%20notebook)\
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akmsw&langs_count=10&layout=compact&cache_seconds=1800&theme=github_dark&custom_title=Most%20used%20languages)\
 ![Stats](https://github-readme-stats.vercel.app/api?username=akmsw&show_icons=true&count_private=true&include_all_commits=true&cache_seconds=1800&theme=github_dark)
