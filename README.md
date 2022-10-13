@@ -10,9 +10,6 @@
 
 ## 🛠️ What am I currently developing?
 - ⚽ The 3.0 version of my cross-platform soccer-matches organization app: [Armame el doparti](https://github.com/akmsw/armame-el-doparti).
-- 🐶 A free & open source database management system for vet supplies stock control and clients registration: Organivet (private repo - WIP).
-- 🟣 A Justin Hoffman's 1999 'Elimination' game remake: Eliminatic (private repo - WIP).
-- ❎ A different tic-tac-toe game: Ultra-te-ti (private repo - WIP).
 
 ## 👨‍💻 What I work with the most?
 
