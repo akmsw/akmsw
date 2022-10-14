@@ -29,11 +29,11 @@
 [![jUnit5](https://img.shields.io/badge/junit5-white?logo=junit5&style=for-the-badge)](https://junit.org/junit5/)
 [![checkstyle](https://img.shields.io/badge/checkstyle-yellow?style=for-the-badge)](https://checkstyle.sourceforge.io/)
 [![sonarlint](https://img.shields.io/badge/sonarlint-orange?style=for-the-badge&logo=sonarlint)](https://www.sonarlint.org/)
-[![uml](https://img.shields.io/badge/uml-blue?style=for-the-badge)](https://en.wikipedia.org/wiki/Unified_Modeling_Language)
-[![libreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice)](https://www.libreoffice.org/)
+[![dataGrip](https://img.shields.io/badge/-DataGrip-blueviolet?style=for-the-badge&logo=datagrip)](https://www.jetbrains.com/datagrip/)
 
 - ### Code editors / IDEs
 [![vsCode](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code)](https://code.visualstudio.com/)
+[![intelliJ](https://img.shields.io/badge/-IntelliJ-orange?style=for-the-badge&logo=intellijidea)](https://www.jetbrains.com/idea/promo/)
 
 ## 📊 Some stats
 ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akmsw&langs_count=10&layout=compact&cache_seconds=1800&theme=github_dark&custom_title=Most%20used%20languages)\
