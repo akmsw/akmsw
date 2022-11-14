@@ -29,6 +29,8 @@
 [![apacheMaven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven)](https://maven.apache.org/)
 [![apacheTomcat](https://img.shields.io/badge/Apache%20Tomcat-blueviolet?style=for-the-badge&logo=Apache%20Tomcat)](https://tomcat.apache.org/)
 [![jUnit5](https://img.shields.io/badge/junit5-white?logo=junit5&style=for-the-badge)](https://junit.org/junit5/)
+[![jsf](https://img.shields.io/badge/JavaServer%20Faces-lightblue?style=for-the-badge)](https://www.oracle.com/java/technologies/javaserverfaces.html)
+[![primefaces](https://img.shields.io/badge/Primefaces-blue?style=for-the-badge)](https://www.primefaces.org/)
 [![checkstyle](https://img.shields.io/badge/checkstyle-yellow?style=for-the-badge)](https://checkstyle.sourceforge.io/)
 [![sonarlint](https://img.shields.io/badge/sonarlint-orange?style=for-the-badge&logo=sonarlint)](https://www.sonarlint.org/)
 [![dataGrip](https://img.shields.io/badge/-DataGrip-blueviolet?style=for-the-badge&logo=datagrip)](https://www.jetbrains.com/datagrip/)
