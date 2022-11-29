@@ -1,8 +1,8 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there! I'm Fran Bonino
 - 🌳 24
-- 🏠 Córdoba capital, Argentina
+- 🏠 Córdoba capital @ Argentina
 - 🎓 Senior computer engineering student @ FCEFyN, UNC
-- ☕ Java developer
+- ☕ Java developer @ Dux Software
 - 📬 Feel free to contact me via e-mail: franbonino82@gmail.com
 - 💼️ Reach me on [LinkedIn](https://www.linkedin.com/in/franciscobonino98/).
 - ⚡ My current interests are Java projects/applications development with project management and CI tools such as Maven and Jenkins, and low level software/firmware development in C.
