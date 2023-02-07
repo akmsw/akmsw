@@ -41,8 +41,8 @@
 [![jira](https://img.shields.io/badge/-Jira-blue?style=for-the-badge&logo=jira)](https://www.atlassian.com/software/jira)
 
 - ### Code editors / IDEs
-[![vsCode](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code)](https://code.visualstudio.com/)
 [![intelliJ](https://img.shields.io/badge/-IntelliJ-orange?style=for-the-badge&logo=intellijidea)](https://www.jetbrains.com/idea/promo/)
+[![vsCode](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code)](https://code.visualstudio.com/)
 
 ## 📊 Some stats
 ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akmsw&langs_count=10&layout=compact&cache_seconds=1800&theme=github_dark&custom_title=Most%20used%20languages)\
