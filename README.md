@@ -32,6 +32,7 @@
 [![jsf](https://img.shields.io/badge/JavaServer%20Faces-lightblue?style=for-the-badge)](https://www.oracle.com/java/technologies/javaserverfaces.html)
 [![primefaces](https://img.shields.io/badge/Primefaces-blue?style=for-the-badge)](https://www.primefaces.org/)
 [![css](https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css3)](https://en.wikipedia.org/wiki/CSS)
+[![html](https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html5)](https://en.wikipedia.org/wiki/HTML)
 [![checkstyle](https://img.shields.io/badge/checkstyle-yellow?style=for-the-badge)](https://checkstyle.sourceforge.io/)
 [![sonarlint](https://img.shields.io/badge/sonarlint-orange?style=for-the-badge&logo=sonarlint)](https://www.sonarlint.org/)
 [![dataGrip](https://img.shields.io/badge/-DataGrip-blueviolet?style=for-the-badge&logo=datagrip)](https://www.jetbrains.com/datagrip/)
