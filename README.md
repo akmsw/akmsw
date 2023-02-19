@@ -31,6 +31,7 @@
 [![jUnit5](https://img.shields.io/badge/junit5-white?logo=junit5&style=for-the-badge)](https://junit.org/junit5/)
 [![jsf](https://img.shields.io/badge/JavaServer%20Faces-lightblue?style=for-the-badge)](https://www.oracle.com/java/technologies/javaserverfaces.html)
 [![primefaces](https://img.shields.io/badge/Primefaces-blue?style=for-the-badge)](https://www.primefaces.org/)
+[![css](https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css3)](https://en.wikipedia.org/wiki/CSS)
 [![checkstyle](https://img.shields.io/badge/checkstyle-yellow?style=for-the-badge)](https://checkstyle.sourceforge.io/)
 [![sonarlint](https://img.shields.io/badge/sonarlint-orange?style=for-the-badge&logo=sonarlint)](https://www.sonarlint.org/)
 [![dataGrip](https://img.shields.io/badge/-DataGrip-blueviolet?style=for-the-badge&logo=datagrip)](https://www.jetbrains.com/datagrip/)
@@ -39,6 +40,7 @@
 [![mysql](https://img.shields.io/badge/-MySQL-white?style=for-the-badge&logo=mysql)](https://www.mysql.com/)
 [![bitbucket](https://img.shields.io/badge/-BitBucket-blue?style=for-the-badge&logo=bitbucket)](https://bitbucket.org/)
 [![jira](https://img.shields.io/badge/-Jira-blue?style=for-the-badge&logo=jira)](https://www.atlassian.com/software/jira)
+
 
 - ### Code editors / IDEs
 [![intelliJ](https://img.shields.io/badge/-IntelliJ-orange?style=for-the-badge&logo=intellijidea)](https://www.jetbrains.com/idea/promo/)
