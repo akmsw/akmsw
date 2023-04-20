@@ -15,8 +15,8 @@
 ## 👨‍💻 What I work with the most?
 
 - ### Operating systems
-[![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows)](https://www.microsoft.com/en-us/windows)
 [![linuxMint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)](https://linuxmint.com)
+[![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows)](https://www.microsoft.com/en-us/windows)
 
 - ### Languages
 [![java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/en/)
@@ -25,27 +25,16 @@
 - ### Tools
 [![git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![gitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github)](https://github.com/)
+[![mysql](https://img.shields.io/badge/-MySQL-white?style=for-the-badge&logo=mysql)](https://www.mysql.com/)
 [![openJDK](https://img.shields.io/badge/openjdk-8%2B-red?style=for-the-badge&logo=openjdk)](https://openjdk.org/)
 [![apacheMaven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven)](https://maven.apache.org/)
-[![apacheTomcat](https://img.shields.io/badge/Apache%20Tomcat-blueviolet?style=for-the-badge&logo=Apache%20Tomcat)](https://tomcat.apache.org/)
 [![jUnit5](https://img.shields.io/badge/junit5-white?logo=junit5&style=for-the-badge)](https://junit.org/junit5/)
-[![jsf](https://img.shields.io/badge/JavaServer%20Faces-lightblue?style=for-the-badge)](https://www.oracle.com/java/technologies/javaserverfaces.html)
-[![primefaces](https://img.shields.io/badge/Primefaces-blue?style=for-the-badge)](https://www.primefaces.org/)
-[![css](https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css3)](https://en.wikipedia.org/wiki/CSS)
-[![html](https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html5)](https://en.wikipedia.org/wiki/HTML)
-[![checkstyle](https://img.shields.io/badge/checkstyle-yellow?style=for-the-badge)](https://checkstyle.sourceforge.io/)
 [![sonarlint](https://img.shields.io/badge/sonarlint-orange?style=for-the-badge&logo=sonarlint)](https://www.sonarlint.org/)
-[![dataGrip](https://img.shields.io/badge/-DataGrip-blueviolet?style=for-the-badge&logo=datagrip)](https://www.jetbrains.com/datagrip/)
-[![postgresql](https://img.shields.io/badge/-PostgreSQL-white?style=for-the-badge&logo=postgresql)](https://www.postgresql.org/)
-[![hibernate](https://img.shields.io/badge/-Hibernate-blue?style=for-the-badge&logo=hibernate)](https://hibernate.org/)
-[![mysql](https://img.shields.io/badge/-MySQL-white?style=for-the-badge&logo=mysql)](https://www.mysql.com/)
-[![bitbucket](https://img.shields.io/badge/-BitBucket-blue?style=for-the-badge&logo=bitbucket)](https://bitbucket.org/)
-[![jira](https://img.shields.io/badge/-Jira-blue?style=for-the-badge&logo=jira)](https://www.atlassian.com/software/jira)
-
+[![checkstyle](https://img.shields.io/badge/checkstyle-yellow?style=for-the-badge)](https://checkstyle.sourceforge.io/)
 
 - ### Code editors / IDEs
-[![intelliJ](https://img.shields.io/badge/-IntelliJ-orange?style=for-the-badge&logo=intellijidea)](https://www.jetbrains.com/idea/promo/)
 [![vsCode](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code)](https://code.visualstudio.com/)
+[![intelliJ](https://img.shields.io/badge/-IntelliJ-orange?style=for-the-badge&logo=intellijidea)](https://www.jetbrains.com/idea/promo/)
 
 ## 📊 Some stats
 ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akmsw&langs_count=10&layout=compact&cache_seconds=1800&theme=github_dark&custom_title=Most%20used%20languages)\
