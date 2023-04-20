@@ -24,7 +24,6 @@
 
 - ### Tools
 [![git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![gitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github)](https://github.com/)
 [![mysql](https://img.shields.io/badge/-MySQL-white?style=for-the-badge&logo=mysql)](https://www.mysql.com/)
 [![openJDK](https://img.shields.io/badge/openjdk-8%2B-red?style=for-the-badge&logo=openjdk)](https://openjdk.org/)
 [![apacheMaven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven)](https://maven.apache.org/)
