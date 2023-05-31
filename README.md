@@ -4,7 +4,7 @@
 - 🎓 Senior computer engineering student @ FCEFyN, UNC
 - 📬 Feel free to contact me via e-mail: franbonino82@gmail.com
 - 💼️ Reach me on [LinkedIn](https://www.linkedin.com/in/franciscobonino98/).
-- ⚡ My current interests are Java projects/applications development with project management and CI tools such as Maven and Jenkins, and low level software/firmware development in C.
+- ⚡ My current interests are low level software/firmware development in C and Java projects/applications development with project management and CI tools such as Maven and Jenkins.
 - 🔭 Looking forward to learn Android apps & videogames development.
 - 📑 [Here](https://gist.github.com/akmsw) I drop useful code.
 
@@ -15,15 +15,16 @@
 
 - ### Operating systems
 [![linuxMint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)](https://linuxmint.com)
+[![freeBSD](https://img.shields.io/badge/-FreeBSD-red?style=for-the-badge&logo=freebsd)](https://www.freebsd.org/)
 [![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows)](https://www.microsoft.com/en-us/windows)
 
 - ### Languages
-[![java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/en/)
 [![c](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/en/)
 
 - ### Tools
 [![git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![mysql](https://img.shields.io/badge/-MySQL-white?style=for-the-badge&logo=mysql)](https://www.mysql.com/)
+[![postgresql](https://img.shields.io/badge/-POSTGRESQL-white?style=for-the-badge&logo=postgresql)](https://www.mysql.com/)
 [![openJDK](https://img.shields.io/badge/openjdk-8%2B-red?style=for-the-badge&logo=openjdk)](https://openjdk.org/)
 [![apacheMaven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven)](https://maven.apache.org/)
 [![jUnit5](https://img.shields.io/badge/junit5-white?logo=junit5&style=for-the-badge)](https://junit.org/junit5/)
