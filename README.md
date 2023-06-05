@@ -2,9 +2,10 @@
 - 🌳 24
 - 🏠 Córdoba capital @ Argentina
 - 🎓 Senior computer engineering student @ FCEFyN, UNC
+- ☕ Backend Java Developer @ In.punto
 - 📬 Feel free to contact me via e-mail: franbonino82@gmail.com
 - 💼️ Reach me on [LinkedIn](https://www.linkedin.com/in/franciscobonino98/).
-- ⚡ My current interests are low level software/firmware development in C and Java projects/applications development with project management and CI tools such as Maven and Jenkins.
+- ⚡ My current interests are low level software/firmware development in C and Java projects/applications development.
 - 🔭 Looking forward to learn Android apps & videogames development.
 - 📑 [Here](https://gist.github.com/akmsw) I drop useful code.
 
