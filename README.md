@@ -38,4 +38,3 @@
 
 ## 📊 Some stats
 ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akmsw&langs_count=10&layout=compact&cache_seconds=1800&theme=github_dark&custom_title=Most%20used%20languages)\
-![Stats](https://github-readme-stats.vercel.app/api?username=akmsw&show_icons=true&count_private=true&include_all_commits=true&cache_seconds=1800&theme=github_dark)
