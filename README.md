@@ -1,19 +1,18 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there! I'm Fran Bonino
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Fran Bonino
 - 🌳 25
 - 🏠 Córdoba capital @ Argentina
 - 🎓 Senior computer engineering student @ FCEFyN, UNC
 - ☕ Java developer
+- 💻 Vanilla Java & C software development enjoyer
 - 📬 Feel free to contact me via e-mail: franbonino82@gmail.com
-- 💼️ Reach me on [LinkedIn](https://www.linkedin.com/in/franciscobonino98/).
-- ⚡ My current interests are low level software/firmware development in C and Java projects/applications development.
 - 🔭 Looking forward to learn Android apps & videogames development.
 - 📑 [Here](https://gist.github.com/akmsw) I drop useful code.
+- 💼️ Reach me on [LinkedIn](https://www.linkedin.com/in/franciscobonino98/).
 
 ## 🛠️ What am I currently developing?
 - ⚽ The 3.0 version of my cross-platform soccer-matches organization app: [Armame el doparti](https://github.com/akmsw/armame-el-doparti).
 
 ## 👨‍💻 What I work with the most?
-
 - ### Operating systems
 [![linuxMint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)](https://linuxmint.com)
 [![freeBSD](https://img.shields.io/badge/-FreeBSD-red?style=for-the-badge&logo=freebsd)](https://www.freebsd.org/)
