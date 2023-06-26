@@ -19,8 +19,7 @@
 [![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows)](https://www.microsoft.com/en-us/windows)
 
 - ### Languages
-[![c](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/en/)
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akmsw&langs_count=10&layout=compact&cache_seconds=1800&theme=github_dark&custom_title=Most%20used%20languages)\
 
 - ### Tools
 [![git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
@@ -34,6 +33,3 @@
 - ### Code editors / IDEs
 [![vsCode](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code)](https://code.visualstudio.com/)
 [![intelliJ](https://img.shields.io/badge/-IntelliJ-orange?style=for-the-badge&logo=intellijidea)](https://www.jetbrains.com/idea/promo/)
-
-## 📊 Some stats
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akmsw&langs_count=10&layout=compact&cache_seconds=1800&theme=github_dark&custom_title=Most%20used%20languages)\
