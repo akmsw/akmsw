@@ -3,7 +3,7 @@
 - 🏠 Córdoba capital @ Argentina
 - 🎓 Senior computer engineering student @ FCEFyN, UNC
 - ☕ Java developer
-- 💻 Java & C software development enjoyer
+- 💻 Vanilla Java & C software development enjoyer
 - 📬 Feel free to contact me via e-mail: franbonino82@gmail.com
 - 🔭 Looking forward to learn Android apps & videogames development.
 - 📑 [Here](https://gist.github.com/akmsw) I drop useful code.
