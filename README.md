@@ -25,8 +25,6 @@
 [![git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![postgresql](https://img.shields.io/badge/-POSTGRESQL-white?style=for-the-badge&logo=postgresql)](https://www.mysql.com/)
 [![openJDK](https://img.shields.io/badge/openjdk-8%2B-red?style=for-the-badge&logo=openjdk)](https://openjdk.org/)
-[![apacheMaven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven)](https://maven.apache.org/)
-[![jUnit5](https://img.shields.io/badge/junit5-white?logo=junit5&style=for-the-badge)](https://junit.org/junit5/)
 [![sonarlint](https://img.shields.io/badge/sonarlint-orange?style=for-the-badge&logo=sonarlint)](https://www.sonarlint.org/)
 [![checkstyle](https://img.shields.io/badge/checkstyle-yellow?style=for-the-badge)](https://checkstyle.sourceforge.io/)
 
