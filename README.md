@@ -14,9 +14,8 @@
 
 ## 👨‍💻 What I work with the most?
 - ### Operating systems
-[![linuxMint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)](https://linuxmint.com)
-[![freeBSD](https://img.shields.io/badge/-FreeBSD-red?style=for-the-badge&logo=freebsd)](https://www.freebsd.org/)
 [![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows)](https://www.microsoft.com/en-us/windows)
+[![linuxMint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)](https://linuxmint.com)
 
 - ### Languages
 ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akmsw&langs_count=10&layout=compact&cache_seconds=1800&theme=github_dark&custom_title=Most%20used%20languages)\
