@@ -2,7 +2,7 @@
 - 🌳 25
 - 🏠 Córdoba capital @ Argentina
 - 🎓 Senior computer engineering student @ FCEFyN, UNC
-- 💻 Digital verification engineer at Marvell Technology
+- 💻 Digital verification engineer @ Marvell Technology
 - ☕ Vanilla Java software development enjoyer
 - 📬 Feel free to contact me via e-mail: franbonino82@gmail.com
 - 📑 [Here](https://gist.github.com/akmsw) I drop useful code.
